@@ -1,0 +1,7 @@
+C:\Users\Kab-31-16\Desktop\215\prect35\bin\Debug\prect35.exe.config
+C:\Users\Kab-31-16\Desktop\215\prect35\bin\Debug\prect35.exe
+C:\Users\Kab-31-16\Desktop\215\prect35\bin\Debug\prect35.pdb
+C:\Users\Kab-31-16\Desktop\215\prect35\obj\Debug\prect35.csproj.AssemblyReference.cache
+C:\Users\Kab-31-16\Desktop\215\prect35\obj\Debug\prect35.csproj.CoreCompileInputs.cache
+C:\Users\Kab-31-16\Desktop\215\prect35\obj\Debug\prect35.exe
+C:\Users\Kab-31-16\Desktop\215\prect35\obj\Debug\prect35.pdb
